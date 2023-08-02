@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DNS\\Desktop\\Examples\\Example001_Hellow_console\\Example001_Hellow_console.csproj": {}
+    "c:\\Users\\DNS\\Desktop\\Учеба\\Examples\\Example001_Hellow_console\\Example001_Hellow_console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DNS\\Desktop\\Examples\\Example001_Hellow_console\\Example001_Hellow_console.csproj": {
+    "c:\\Users\\DNS\\Desktop\\Учеба\\Examples\\Example001_Hellow_console\\Example001_Hellow_console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DNS\\Desktop\\Examples\\Example001_Hellow_console\\Example001_Hellow_console.csproj",
+        "projectUniqueName": "c:\\Users\\DNS\\Desktop\\Учеба\\Examples\\Example001_Hellow_console\\Example001_Hellow_console.csproj",
         "projectName": "Example001_Hellow_console",
-        "projectPath": "C:\\Users\\DNS\\Desktop\\Examples\\Example001_Hellow_console\\Example001_Hellow_console.csproj",
+        "projectPath": "c:\\Users\\DNS\\Desktop\\Учеба\\Examples\\Example001_Hellow_console\\Example001_Hellow_console.csproj",
         "packagesPath": "C:\\Users\\DNS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DNS\\Desktop\\Examples\\Example001_Hellow_console\\obj\\",
+        "outputPath": "c:\\Users\\DNS\\Desktop\\Учеба\\Examples\\Example001_Hellow_console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DNS\\AppData\\Roaming\\NuGet\\NuGet.Config",
