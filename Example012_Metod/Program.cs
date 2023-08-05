@@ -9,6 +9,11 @@ string text = " - Я думаю, сказал князь, улыбаясь, - ч
                 + "вы бы взяли приступо согласие прусского короля."
                 + "Вы так красноречивы. Вы дадите мне чаю?";
 
+// string s = "qwerty"
+//             012
+// s[3] // r 
+
+
 
 string Replace(string text, char oldValue, char newValue)
 {
@@ -19,7 +24,9 @@ string Replace(string text, char oldValue, char newValue)
     for (int i = 0; i < length; i++)
 
     {
+        
         if (text[i] == oldValue) result = result + $"{newValue}";
+        
         else result = result + $"{text[i]}";
     }
     return result;
